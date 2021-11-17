@@ -1,20 +1,17 @@
-### Hi, This is Ashish..!!!
+### Hi There, I'm Ashish..!!!
+
+<img src="https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877" style="object-fit: cover">
+
+
+
+- 🔭  I’m currently presuing  ...MCA(Master of Computer Application)
+- 💬 Ask me about ...https://github.com/ashishnamdev09-09/ashishnamdev09-09/edit/main/README.md
+- 📫 How to reach me: ...https://www.instagram.com
+
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=ashishnamdev09-09&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-<!--
-**ashishnamdev09-09/ashishnamdev09-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishnamdev09-09&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
